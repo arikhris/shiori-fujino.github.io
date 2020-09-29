@@ -21,7 +21,7 @@ Yes I know, it's bizarre.
 
 FYI, I have never done *Jailbreak* or anything similar because I'm not a komputa person. I've heard from people saying that the *Jailbreaking* is good because I can install many more apps for **FREE**. That means I don't have to pay *Grammarly* yearly, as well as *iCloud*, *Apple Music* kind of service that I'm paying for could be totally free.
 
-Also, this is what I learnt recently by the way. People do Jailbreak their phone because they want *Privilege Escalation*. Although, I never thought that I want to do it because simply It looks too complicate to accomplish it to me, and the security vulnerability never appealed to me. I've been using banking app since long time ago and I never wanted to someone steal my money.
+Also, this is what I learnt recently by the way. People do Jailbreak their phone because they want *Privilege Escalation*. Although, I never thought that I want to do it because simply It looks too complicate to accomplish it to me, and the security vulnerability never appealed to me. I've been using banking app since long time ago and I never wanted to someone steals my money.
 
 ***But PayPal did it when it was 20..18. Someone used my PayPal account to spend $99 on google play store. PayPal said it's my fault that I never changed my password since the joining date. It's ridiculous.***
 
