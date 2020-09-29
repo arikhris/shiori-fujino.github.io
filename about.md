@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I’m writing this because 
-I don’t have anyone to talk. I don’t have friend, family. Although I have few people I know and talk from now and then, However they all treat me as a psycho, lunatic and crazy so It’s better keep it myself than tell them about it.
+I don’t have anyone to talk. I don’t have friend, family. Although I have few people I know and talk from now and then, they all treat me as a psycho, lunatic and crazy so It’s better keep it myself than tell them about it.
 
 I have history of asylum because of suicidal episode which happened in late June, 2020.
 I was stressed enough because of what I will explain later in this blog, I merely wanted to end all these mess because it didn’t seem to finish itself unless I end it.
