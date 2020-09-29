@@ -35,4 +35,4 @@ I had a blog that I wrote about sex, relationship, random thoughts, and about my
 ---
 
 TL;DR
-I found something weird from my phone and I told people about it, but no one listened to me carefully and I didn't care much either. And I was nymphomania.
+I found something weird from my phone and I told people about it, but no one listened to me carefully and I didn't care much either. And I was hypersexual, nymphomania.
