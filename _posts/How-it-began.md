@@ -1,3 +1,8 @@
+---
+layout: post
+title: How It Began
+---
+
 I remember it was May. When New South Wales, Australia got into lockdown level 3,(or was it 4?) so everyone has to stay at home. I had a lot of time to play with my phone and internet because I lost my job. Fortunately I had a second job that I could make more money than my day job, so I quite enjoyed the lockdown.
 
 I have been using yellow iPhone XR, since 2019. It's relatively new phone, so it should be working normal without lagging or getting bricked.(?)
