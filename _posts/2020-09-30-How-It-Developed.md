@@ -7,7 +7,7 @@ TL;DR: Fake Uber, Fake WordPress, Fake iOS, Fake MacOS, you can make anything wi
 
 ---
 
-<h4>What do human need for living?</h3>
+<h4>What do human need for living?</h4>
 I needed a car. I have a nice motorbike but I can't use it for moving in and out.
 I only mentioned once, "It'd be better if I had a car." Ex-Housemate said,
 
@@ -33,20 +33,20 @@ Expectedly, I got refused uncountable times because of this and that, one time I
 - Why is it so hard to be connected with agents in first place?
 - Why *Deryljean* runs away like that? Should I answer him(her) in 59seconds?
 
-![다시봐도 얼굴 패고싶음](/images/uber1.png)
-![다시봐도 머리통 때리고싶음](/images/uber2.png)
-![다시봐도 명치 찌르고싶음](/images/uber3.png)
+![다시봐도 얼굴 패고싶음](/images/uber1.PNG)
+![다시봐도 머리통 때리고싶음](/images/uber2.PNG)
+![다시봐도 명치 찌르고싶음](/images/uber3.PNG)
 
 
 <h4> Uber is well-known, huge international company, isn't it? But what are those flaws?</h4>
 
 But I couldn't do anything about it. Uber's *Greenlight Hub* was closed due to Covid-19, All I could do was just wait. One day I google-mapped Uber, and it showed me Uber Melbourne. Usually... It shows the local one or the closest one but why do I get Melbourne result? I mean... Everything seemed so puzzled. I was registered in Perth UberEats and Google map showed me Melbourne Greenlight Hub But I AM IN SYDNEY. I even went to Greenlight Hub on Parramatta road in Sydney to check if it's REALLY closed. mmm... It is really closed.
 
-![closed](/images/greenhub.jpg)
+![closed](/images/greenhub.JPG)
 
 While I was waiting, I found a forum for Uber drivers. It's called *Uber people*. While I was reading few threads, I found my greatest fear and it triggered me badly.
 
-![666](image/uberguy666.png)
+![666](/images/uberguy666.PNG)
 
 I mentioned about **Cyber bully** in my last post. There was a guy who bullied me for about half year, The reason for haunting me to death was because I rejected him. As I said I had very promiscuous *xes* life and I was ready to *kcuf* literally anyone and I did, except hayabi666(the bully). I don't know why, I just didn't feel like it, and then he started to attack me from every side of my life especially my 5 years old beloved blog.
 
