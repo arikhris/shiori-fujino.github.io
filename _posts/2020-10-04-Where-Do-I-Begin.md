@@ -9,6 +9,7 @@ TL;DR
 - Some errors
 - Coconut oils
 - How to think logically and rationally.
+
 ---
 
 
@@ -43,11 +44,11 @@ The other day, my day job-related website were down.
 I found weird app that I have never installed from my work phones.
 ![](/images/hashtagimage.JPG)
 
-WP show me weird page.
+WordPress shows me weird page.
 ![](/images/protectAPIisunavailable.PNG)
 
 I never searched TrueCallerOther on google. But It appeared that I did.
-![](/images/truecallerother.PNG)
+![](/images/trucallerother.PNG)
 
 Someone tried to search weird thing through my blog search tool.
 ![](/images/wpsearchhistory.PNG)
@@ -56,7 +57,7 @@ What is Analystics-90Days?
 ![](/images/90days.PNG)
 
 Why is Trust Asset version 8, What does that even mean?
-![](/images/trustedasstes.PNG)
+![](/images/trustedassets.PNG)
 
 What is Youtube wakeup .ips, and I have many .ips file crashes.
 ![](/images/ipscrashes.JPG)
