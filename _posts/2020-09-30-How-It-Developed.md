@@ -89,5 +89,5 @@ At last, my account got finally approved a week ago, and I’m driving Hyundai K
 
 <h4>Now, I have the most of basic needs of human being.</h4>
 Nice shelter, Washing machine, Fridge, Vacuum, Bed, Lamps, Uber driver account, iMac, Macbook, iPhone, iPad, Magic mouse and Magic keyboard.
-I bought an expensive perfume, I felt like some extra after I satisfied my basic needs. <a name="princess">I smell like princess.</a> I wear ragged jumper that I bought in Hawaii 3 years ago, and I have tangled big bun on my head but I smell like princess.
+I bought an expensive perfume, I felt like some extra after I satisfied my basic needs. **<a name="princess">I smell like princess.</a>** I wear ragged jumper that I bought in Hawaii 3 years ago, and I have tangled big bun on my head but I smell like princess.
 I always wondered why my mom wears nice perfume before she goes to bed. She still wears it even she sleeps alone. Now I can understand why. Because good smell makes hooman happy. Good smell reminds me of my mom. I decided to solve this issues rather than end it forcefully, maybe I will never able to, but I'll try at least. Because I smell like princess now and Maybe I miss my mom a bit.
