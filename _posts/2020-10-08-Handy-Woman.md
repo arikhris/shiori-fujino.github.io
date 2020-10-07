@@ -18,13 +18,13 @@ Be Sparkie,
 
 
 Be Cleaner,
-![](images/cleaner.JPG)
+![](/images/cleaner.JPG)
 
 And so on...
-![](images/nightview.JPG)
+![](/images/nightview.JPG)
 
 Haven't finished yet.
-![](images/stillnotclean.JPG)
+![](/images/stillnotclean.JPG)
 
 Talking about my ex-housemate, Not only He did all the hard works, also He is komputa-friendly person. Meaning that, I can just ask him about parsing PDF files. But maybe I asked him too much. At last, he was yelling at me that I'm too much, He said I'm crazy.
 
@@ -51,4 +51,4 @@ I couldn't find what this OpenAction is about in *D's uni essay*, and this PDF f
 
 ![](https://i.kym-cdn.com/photos/images/original/001/482/572/593.png)
 
-But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](images/dranktoomuchcoffee.PNG) and crash files ![](images/corpsestillvalid.PNG)
+But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](/images/dranktoomuchcoffee.PNG) and crash files ![](/images/corpsestillvalid.PNG)
