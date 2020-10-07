@@ -21,7 +21,7 @@ footer-links:
   email: 01jun1988@gmail.com
   facebook:
   flickr:
-  github: Shiori-fujino/shiori-fujino.github.io
+  github: https://github.com/shiori-fujino
   instagram:
   linkedin:
   pinterest:
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-3N3S6T7D98
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: shiori-fujino.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
