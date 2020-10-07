@@ -8,20 +8,20 @@ Living with male friend was great. Don't have to worry about cockroaches and spi
 Because I got out from my comfort-zone, I have to do things by myself. Such as,
 
 Be Pipey,
-![](/images/pipey.JPG)
+![](/images/pipey.JPG | width = 500px)
 
 Be Sparkie,
-![](/images/sparkie.1.JPG)
-![](/images/sparkie.2.JPG)
-![](/images/sparkie.3.JPG)
-![](/images/sparkie.4.JPG)
+![](/images/sparkie.1.JPG | width = 500px)
+![](/images/sparkie.2.JPG | width = 500px)
+![](/images/sparkie.3.JPG | width = 500px)
+![](/images/sparkie.4.JPG | width = 500px)
 
 
 Be Cleaner,
-![](/images/cleaner.JPG)
+![](/images/cleaner.JPG | width = 500px)
 
 And so on...
-![](/images/nightview.JPG)
+![](/images/nightview.JPG | width = 500px)
 
 Haven't finished yet.
 ![](/images/stillnotclean.JPG)
@@ -39,9 +39,9 @@ Making money fast and easy(But not illegally, like dealing drugs or phishing inn
 
 I am having day-off for [Parsing PDFs](https://shiori-fujino.github.io/PDF#parse), Because
 
-![](/images/parsing1.png)
-![](/images/parsing2.png)
-![](/images/parsing3.png)
+![](/images/parsing1.png | width = 500px)
+![](/images/parsing2.png | width = 500px)
+![](/images/parsing3.png | width = 500px)
 
 I can't find any better.
 There's no Java, or Javascript embedded as I concerned, but there's OpenAction. Not all OpenAction embedded PDF files are malicious according to what I [read](http://blog.didierstevens.com).
@@ -51,4 +51,4 @@ I couldn't find what this OpenAction is about in *D's uni essay*, and this PDF f
 
 ![](https://i.kym-cdn.com/photos/images/original/001/482/572/593.png)
 
-But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](/images/dranktoomuchcoffee.PNG) and crash files ![](/images/corpsestillvalid.PNG)
+But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](/images/dranktoomuchcoffee.PNG | width = 500px) and crash files ![](/images/corpsestillvalid.PNG | width = 500px)
