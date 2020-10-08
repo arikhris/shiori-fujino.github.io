@@ -14,7 +14,7 @@ Be Pipey,
 Be Sparkie,
 
 <img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie1.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie2.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie2.JPG">
 <img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie3.JPG" width="500">
 <img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie4.JPG" width="500">
 
@@ -22,7 +22,7 @@ Be Cleaner,
 ![](/images/clener.JPG)
 
 And so on...
-![]https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/nightview.JPG
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/nightview.JPG">
 
 Haven't finished yet.
 ![](/images/stillnotclean.JPG)
@@ -40,9 +40,9 @@ Making money fast and easy(But not illegally, like dealing drugs or phishing inn
 
 I am having day-off for [Parsing PDFs](https://shiori-fujino.github.io/PDF#parse), Because
 
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing1.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing2.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing3.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing1.png" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing2.png" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing3.png" width="500">
 
 I can't find any better.
 There's no Java, or Javascript embedded as I concerned, but there's OpenAction. Not all OpenAction embedded PDF files are malicious according to what I [read](http://blog.didierstevens.com).
