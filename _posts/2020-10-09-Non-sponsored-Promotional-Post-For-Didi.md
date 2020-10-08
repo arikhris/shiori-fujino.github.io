@@ -27,7 +27,8 @@ Last night I got a message from Didi about driver promotion, while I was upset a
 
 People, please use Didi more! Let's not support Uber's monopoly of ride-share market. Didi's orange colour app might look a bit ugly compare to Uber's classy interface but does it matter?! and it's a personal thought, Didi as brand name isn't my taste. Maybe it's because of my previous work. I hated to name a girl as Didi, Cici, Bibi, Yiyi(or was it EE?), Gigi, Vivi, Mimi, Kiki, Fifi... But who cares! It pays more to drivers and cheaper for riders.
 
-  ![You can use my referral code, and get $15.00 off.](/images/didipromo.jpg)
+***Use my referral code, and get $15.00 off! |PUYX5K|***
+
 
   Plus I can see where riders want to go before accept requests. Meaning that I can avoid long/shot trips if I want to. Whereas Uber only shows me destinations after I accept requests.
 
