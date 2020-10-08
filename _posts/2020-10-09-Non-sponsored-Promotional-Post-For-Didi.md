@@ -27,9 +27,9 @@ Last night I got a message from Didi about driver promotion, while I was upset a
 
 People, please use Didi more! Let's not support Uber's monopoly of ride-share market. Didi's orange colour app might look a bit ugly compare to Uber's classy interface but does it matter?! and it's a personal thought, Didi as brand name isn't my taste. Maybe it's because of my previous work. I hated to name a girl as Didi, Cici, Bibi, Yiyi(or was it EE?), Gigi, Vivi, Mimi, Kiki, Fifi... But who cares! It pays more to drivers and cheaper for riders.
 
-***Use my referral code, and get $15.00 off!***
+***Use my referral code, get $15.00 off!***
 
-        PUYX5K
+        Code: PUYX5K
 
   Plus I can see where riders want to go before accept requests. Meaning that I can avoid long/shot trips if I want to. Whereas Uber only shows me destinations after I accept requests.
 
@@ -39,7 +39,9 @@ People, please use Didi more! Let's not support Uber's monopoly of ride-share ma
 
  I used my previous blog as a tool of venting my anger, a drainage of excessive emotion, an expedient of seeking/getting attention. Hence I thought that not making money isn't important. In fact, I thought that It's okay to spend around $300.00 a year for my hobby. Now I'm using github *free* hosting, as well as trying to write every post at the very least sexual if you already noticed. I don't even write ~~sex~~, I write 'xes' instead. Because everyone wants to make money while they do what they like. I don't want to get paid less than [$10.00](https://shiori-fujino.github.io/Handy-Woman#$10.00) per hour with chronic knee pain. One day, I would love to say
  > I'm a writer, I'm doing Uber for extra.
- ---
+ 
+ 
+ 
 
 
  <h3>Brand that I want to get sponsored badly.</h3>
