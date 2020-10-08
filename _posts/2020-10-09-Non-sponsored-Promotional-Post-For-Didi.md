@@ -4,7 +4,7 @@ title: Non-sponsored Promotional Post For Didi
 ---
 
 <h3>Didi</h3>
-Last night I got a message from Didi about driver promotion, while I was upset about less than $10 per hour driving with Uber. I didn't read it properly but I joined to be Didi driver! :D I drove 5 hours today, Here's my thoughts about Didi.
+Last night I got a message from Didi about driver promotion, while I was upset about less than [$10.00](https://shiori-fujino.github.io/Handy-Woman#$10.00) per hour driving with Uber. I didn't read it properly but I joined to be a Didi driver! :D I drove 5 hours today, Here's my thoughts about Didi.
 - Easy account activation
 
   Compare to Uber took whole 2 weeks and gave me mental, I got approved within an hour. Required documents are same as Uber.
