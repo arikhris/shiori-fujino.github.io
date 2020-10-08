@@ -8,7 +8,7 @@ Living with male friend was great. Don't have to worry about cockroaches and spi
 Because I got out from my comfort-zone, I have to do things by myself. Such as,
 
 Be Pipey,
-![](/images/pipey.JPG | width = 500px)
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/pipey.JPG" width="500">
 
 Be Sparkie,
 ![](/images/sparkie.1.JPG | width = 500px)
@@ -18,7 +18,7 @@ Be Sparkie,
 
 
 Be Cleaner,
-![](/images/cleaner.JPG | width = 500px)
+![](/images/clener.JPG)
 
 And so on...
 ![](/images/nightview.JPG | width = 500px)
