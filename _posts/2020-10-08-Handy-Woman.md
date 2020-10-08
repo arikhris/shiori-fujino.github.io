@@ -8,14 +8,15 @@ Living with male friend was great. Don't have to worry about cockroaches and spi
 Because I got out from my comfort-zone, I have to do things by myself. Such as,
 
 Be Pipey,
+
 <img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/pipey.JPG" width="500">
 
 Be Sparkie,
-![](/images/sparkie.1.JPG | width = 500px)
-![](/images/sparkie.2.JPG | width = 500px)
-![](/images/sparkie.3.JPG | width = 500px)
-![](/images/sparkie.4.JPG | width = 500px)
 
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.1.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.2.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.3.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.4.JPG" width="500">
 
 Be Cleaner,
 ![](/images/clener.JPG)
