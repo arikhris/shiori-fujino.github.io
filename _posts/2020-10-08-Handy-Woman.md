@@ -13,16 +13,16 @@ Be Pipey,
 
 Be Sparkie,
 
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.1.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.2.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.3.JPG" width="500">
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie.4.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie1.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie2.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie3.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/sparkie4.JPG" width="500">
 
 Be Cleaner,
 ![](/images/clener.JPG)
 
 And so on...
-![](/images/nightview.JPG | width = 500px)
+![]https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/nightview.JPG
 
 Haven't finished yet.
 ![](/images/stillnotclean.JPG)
@@ -40,9 +40,9 @@ Making money fast and easy(But not illegally, like dealing drugs or phishing inn
 
 I am having day-off for [Parsing PDFs](https://shiori-fujino.github.io/PDF#parse), Because
 
-![](/images/parsing1.png | width = 500px)
-![](/images/parsing2.png | width = 500px)
-![](/images/parsing3.png | width = 500px)
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing1.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing2.JPG" width="500">
+<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/parsing3.JPG" width="500">
 
 I can't find any better.
 There's no Java, or Javascript embedded as I concerned, but there's OpenAction. Not all OpenAction embedded PDF files are malicious according to what I [read](http://blog.didierstevens.com).
@@ -52,4 +52,4 @@ I couldn't find what this OpenAction is about in *D's uni essay*, and this PDF f
 
 ![](https://i.kym-cdn.com/photos/images/original/001/482/572/593.png)
 
-But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](/images/dranktoomuchcoffee.PNG | width = 500px) and crash files ![](/images/corpsestillvalid.PNG | width = 500px)
+But don't get bored yet, I still have a lot of doubt that I didn't talk about. I wonder if everyone sees same developer's notes, ![](/images/dranktoomuchcoffee.PNG) and crash files ![](/images/corpsestillvalid.PNG)
