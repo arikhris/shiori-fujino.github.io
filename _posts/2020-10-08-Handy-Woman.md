@@ -9,7 +9,7 @@ Because I got out from my comfort-zone, I have to do things by myself. Such as,
 
 Be Pipey,
 
-<img src="https://github.com/shiori-fujino/shiori-fujino.github.io/blob/master/images/pipey.JPG" width="500">
+![](/images/pipey.JPG)
 
 Be Sparkie,
 
